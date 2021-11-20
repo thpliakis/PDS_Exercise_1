@@ -1,0 +1,6 @@
+binary,graph,node_num,threads_num,times,triang_num
+./triangleCount,belgium_osm.mtx,1441295,1,0.045514,2420
+./triangleCount,com-Youtube.mtx,1134890,1,2.241708,3056386
+./triangleCount,mycielskian13.mtx,6143,1,0.477048,0
+./triangleCount,dblp-2010.mtx,326186,1,0.040086,1676652
+./triangleCount,NACA0015.mtx,1039183,1,0.215118,2075635
